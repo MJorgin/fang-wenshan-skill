@@ -1,0 +1,15 @@
+{
+  "name": "fang-wenshan-skill",
+  "version": "0.1.0",
+  "description": "方文山歌词学习与创作 skill（跨工具通用：DSH / Claude Code / Codex 等均可挂载）— 歌词库（私有）、手法卡、评价库、押韵校验脚本。",
+  "type": "module",
+  "main": "index.js",
+  "files": ["index.js", "cordis.patch.yml", "skills"],
+  "license": "MIT",
+  "private": true,
+  "dsh": {
+    "bundle": {
+      "patch": "./cordis.patch.yml"
+    }
+  }
+}

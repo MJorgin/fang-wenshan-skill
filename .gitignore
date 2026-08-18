@@ -1,0 +1,20 @@
+# ⚠️ 版权内容——绝不提交到公开仓库
+# 歌词全文受版权保护，仅限本地个人学习；catalog.md 含名句摘录，一并排除。
+skills/fang-wenshan/lyrics/
+skills/fang-wenshan/catalog.md
+
+# 品牌与歌手名风险内容——公开版不含（含商业产品名与歌手声线描述）
+skills/fang-wenshan/examples/04-旧巷-Suno配置.md
+skills/fang-wenshan/examples/05-剑挂柳梢-武侠中国风.md
+skills/fang-wenshan/examples/06-Suno试听方法与矩阵.md
+
+# 本地环境与工具产物
+.DS_Store
+__pycache__/
+*.pyc
+*.log
+.env
+*.env
+
+# 本地绝对路径残留检测（若出现请先清洗再提交）
+*_local_paths.txt
