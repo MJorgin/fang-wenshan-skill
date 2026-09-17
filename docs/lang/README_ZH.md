@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="../social-preview.png" alt="fang-wenshan-skill — 学习方文山的歌词艺术，写你自己的歌" width="100%">
+<img src="../../docs/hero.png" alt="fang-wenshan-skill — 方文山歌词手法学习与中文作词训练系统" width="100%">
 
 <br>
 

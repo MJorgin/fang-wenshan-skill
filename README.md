@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="docs/social-preview.png" alt="fang-wenshan-skill — study Vincent Fang's lyric craft and write your own songs" width="100%">
+<img src="docs/hero.png" alt="fang-wenshan-skill — 方文山歌词手法学习与中文作词训练系统" width="100%">
 
 <br>
 
